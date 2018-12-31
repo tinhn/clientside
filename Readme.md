@@ -1,4 +1,7 @@
 
+## Configuration
+Update your chat server address in `public/chat.js` file.
+
 ## Install dependencies
 Run `npm install` from the directory to install all dependencies.
 
